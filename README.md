@@ -6,7 +6,7 @@
 🎮 Currently working with **Unreal Engine 5**, blending **Blueprints** and **C++** to create gameplay systems  
 💻 Backend & full-stack development using **SERN** (SQL, Express, React, Node.js)  
 🧠 Exploring **real-world projects** to improve skills and build a strong portfolio  
-📚 Currently learning: Computer Organization, Data Structures, and Assembly Language
+📚 Currently learning:Game dev, Design and Analysis of Algorithms, Computer Networks
 
 ---
 
