@@ -14,7 +14,7 @@
 - **Languages:** C++, JavaScript, Python, SQL  
 - **Game Dev:** Unreal Engine 5, Blueprints  
 - **Web Dev:** Node.js, Express, React, SQL Server  
-- **Tools:** Git, GitHub, VS Code, Visual Studio 2022, Postman
+- **Tools:** Git, GitHub, VS Code, Visual Studio 2022
 
 ---
 
